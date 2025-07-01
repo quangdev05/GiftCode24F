@@ -3,11 +3,11 @@
 ![Supported server version](https://img.shields.io/badge/Minecraft-1.13x%20--_1.21x-green)
 [![Discord](https://img.shields.io/discord/1247029974154612828.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/4SGhHNmhE8)
 
-# [GiftCode24 Plugin](https://github.com/quangdev05/GiftCode24/)
-**GiftCode24** là plugin quản lý mã quà tặng mạnh mẽ dành cho Minecraft. Nó cho phép quản trị viên tạo, quản lý và sử dụng mã quà tặng với các tùy chọn có thể định cấu hình như mức sử dụng tối đa, thời hạn sử dụng và giới hạn dành riêng cho người chơi. Các tính năng bao gồm tạo, xóa, bật, tắt, liệt kê và gán mã quà tặng. GiftCode24 giúp việc quản lý mã quà tặng trở nên đơn giản và hiệu quả.
-
 # GiftCode24F Plugin
 **GiftCode24F** là bản support cho fork Folia đầy đủ chức năng tương tự như bản gốc, được code lại riêng biệt để tối ưu tốt nhất cho fork Folia. 
+
+# [GiftCode24 Plugin](https://github.com/quangdev05/GiftCode24/)
+**GiftCode24** là plugin quản lý mã quà tặng mạnh mẽ dành cho Minecraft. Nó cho phép quản trị viên tạo, quản lý và sử dụng mã quà tặng với các tùy chọn có thể định cấu hình như mức sử dụng tối đa, thời hạn sử dụng và giới hạn dành riêng cho người chơi. Các tính năng bao gồm tạo, xóa, bật, tắt, liệt kê và gán mã quà tặng. GiftCode24 giúp việc quản lý mã quà tặng trở nên đơn giản và hiệu quả.
 
 ## Hướng dẫn cài đặt
 1. **Tải và cài đặt plugins**

@@ -1,0 +1,24 @@
+name: GiftCode24F
+version: '${project.version}'
+main: com.quangdev.giftCode24F.GiftCode24F
+api-version: '1.20'
+folia-supported: true
+prefix: GiftCode24F
+authors: [ QuangDev05 ]
+description: GiftCode24 là plugin quản lý mã quà tặng mạnh mẽ dành cho server Minecraft fork Folia.
+website: https://quangdev05.link
+softdepend: [bStats]
+
+commands:
+  giftcode:
+    usage: /<command>
+    permission: giftcode.admin
+    aliases: [gc]
+  code:
+    usage: /<command>
+
+permissions:
+  giftcode.admin:
+    default: op
+  giftcode.player:
+    default: true

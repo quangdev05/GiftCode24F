@@ -6,7 +6,7 @@
 
     <groupId>com.quangdev</groupId>
     <artifactId>giftcode24f</artifactId>
-    <version>1.0.0-Folia</version>
+    <version>1.0.1-Folia</version>
     <packaging>jar</packaging>
 
     <name>giftcode24f</name>

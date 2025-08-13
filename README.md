@@ -5,7 +5,7 @@
 
 # GiftCode24F Plugin
 **GiftCode24F** is a support version for Folia fork with full functionality similar to the original version, recoded separately to best optimize for Folia fork.
-### **Note:** The original version ([GiftCode24](https://github.com/quangdev05/GiftCode24/) from version 3.0.0 has been supported for use on servers running fork Folia, so GiftCode24F will stop updating.
+### **Note:** The original version ([GiftCode24)](https://github.com/quangdev05/GiftCode24/) from version 3.0.0 has been supported for use on servers running fork Folia, so GiftCode24F will stop updating.
 
 # [GiftCode24 Plugin](https://github.com/quangdev05/GiftCode24/)
 **GiftCode24** is a powerful gift code management plugin for Minecraft. It allows admins to create, manage and use gift codes with configurable options such as maximum usage, expiry date and player-specific limits. Features include creating, deleting, enabling, disabling, listing and assigning gift codes. GiftCode24 makes gift code management simple and efficient.
